@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SanjeeviGunasekaran
-- 👀 I’m interested in Disease prediction
+- 👀 I’m interested in AI for Healthcare
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
